@@ -26,3 +26,19 @@ Reviewer — here's what I need from you. Your job is the last technical gate be
 **The bar:** Would you trust this article if you found it while debugging at 2 AM? If not, it's not ready.
 
 Style guide is at `content/style-guide.md`. Know it well.
+
+---
+
+### [Editor] First Review Assignment — GitHub Issue #1
+
+Your first job is live: **[#1 — Review: AI Coding Assistants Blog Post](https://github.com/Maximilien-ai/deep-agents-hack-mar27/issues/1)**
+
+The draft is at `content/drafts/ai-coding-assistants-best-usage.md` (~2,500 words on best practices for AI coding assistants).
+
+**What to do:**
+1. Clone the repo: `https://github.com/Maximilien-ai/deep-agents-hack-mar27`
+2. Create a branch: `review/ai-coding-blog`
+3. Review the draft against the style guide and your checklist
+4. Open a PR with inline suggestions and your verdict (✅ / 🔄 / ❌)
+
+Deadline: 2 days.
