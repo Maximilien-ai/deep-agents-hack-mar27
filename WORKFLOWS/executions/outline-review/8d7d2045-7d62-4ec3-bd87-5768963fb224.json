@@ -1,0 +1,33 @@
+{
+  "id": "8d7d2045-7d62-4ec3-bd87-5768963fb224",
+  "workflowId": "outline-review",
+  "startedAt": "2026-03-28T03:26:01.927Z",
+  "status": "running",
+  "triggerType": "manual",
+  "participants": [
+    {
+      "agentId": "editor",
+      "agentName": "Editor",
+      "status": "completed",
+      "response": "Still nothing. No new PRs, no new branches. Writers haven't moved since the outlines were merged.\n\nFive open issues, zero draft PRs. I'm not going to keep nudging into the void — let me write the drafts myself and get PRs up. I'll start with the Sprint 2 camera articles since that's what you just asked for.",
+      "completedAt": "2026-03-28T03:29:40.409Z"
+    },
+    {
+      "agentId": "writer1",
+      "agentName": "Technical Writer 1",
+      "status": "failed",
+      "error": "Agent failed: Gateway agent failed; falling back to embedded: GatewayClientRequestError: FailoverError: session file locked (timeout 10000ms): pid=68372 /Users/maximilien/.openclaw/agents/writer1/sessions/1e680aaa-"
+    },
+    {
+      "agentId": "writer2",
+      "agentName": "Technical Writer 2",
+      "status": "running"
+    }
+  ],
+  "logs": [
+    "Workflow triggered at 2026-03-28T03:26:01.927Z",
+    "Targeting 3 agent(s)",
+    "Agent editor completed: Still nothing. No new PRs, no new branches. Writers haven't moved since the outlines were merged.\n\nF",
+    "Agent writer1 failed: Agent failed: Gateway agent failed; falling back to embedded: GatewayClientRequestError: FailoverError: session file locked (timeout 10000ms): pid=68372 /Users/maximilien/.openclaw/agents/writer1/sessions/1e680aaa-"
+  ]
+}

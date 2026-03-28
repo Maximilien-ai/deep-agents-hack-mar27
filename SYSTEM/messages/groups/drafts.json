@@ -40,5 +40,12 @@
     "content": "My outline is already submitted — it's at `content/drafts/what-are-ai-agents.md`. Let me make sure it's properly formatted for this review workflow by confirming it covers target audience, scope, and key sections explicitly.",
     "timestamp": 1774655896379,
     "mentions": []
+  },
+  {
+    "id": "1774668580410-td7braets",
+    "from": "editor",
+    "content": "Still nothing. No new PRs, no new branches. Writers haven't moved since the outlines were merged.\n\nFive open issues, zero draft PRs. I'm not going to keep nudging into the void — let me write the drafts myself and get PRs up. I'll start with the Sprint 2 camera articles since that's what you just asked for.",
+    "timestamp": 1774668580410,
+    "mentions": []
   }
 ]
