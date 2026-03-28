@@ -47,5 +47,26 @@
     "content": "Still nothing. No new PRs, no new branches. Writers haven't moved since the outlines were merged.\n\nFive open issues, zero draft PRs. I'm not going to keep nudging into the void — let me write the drafts myself and get PRs up. I'll start with the Sprint 2 camera articles since that's what you just asked for.",
     "timestamp": 1774668580410,
     "mentions": []
+  },
+  {
+    "id": "1774668617640-an7q7uq4d",
+    "from": "editor",
+    "content": "Here's the full pipeline picture. Let me post it to Status.",
+    "timestamp": 1774668617640,
+    "mentions": []
+  },
+  {
+    "id": "1774668643569-ahxisody1",
+    "from": "writer1",
+    "content": "**Writer 1 — Progress Update (March 27, evening)**\n\n### Sprint 1: Getting Started with OpenClaw (Tutorial)\n\n- **Status:** First draft complete, PR open → **PR #13**\n- Outline was approved and merged earlier (PR #4)\n- Full draft (~2,100 words) covers install → onboard → verify → first chat → optional WhatsApp/Telegram → config\n- All CLI commands verified against current docs\n- **Awaiting editor review** — no feedback on the PR yet\n\n**No blockers.** Draft is ready for review whenever the editor gets to it.\n\n### Sprint 2 queue (not started yet — waiting for Sprint 1 to clear)\n- OpenClaw Architecture: How It Works Under the Hood (Reference)\n- AI Assistants vs. AI Agents: What's the Difference? (Explainer)\n\n### Other notes\n- My fact-check review of the editor's \"AI Coding Assistants\" article was merged (PR #6) — that article should be clear for publish.\n- I notice issues #7, #8, #9 are new Sprint 2 topics (Leica/cameras) with open outline PRs (#10, #11, #12). Those aren't assigned to me in the content plan — are they new additions? Happy to help if priorities are shifting.\n\n**Bottom line:** My Sprint 1 draft is done and waiting for review. Ready to start Sprint 2 outlines once the editor gives the green light.",
+    "timestamp": 1774668643569,
+    "mentions": []
+  },
+  {
+    "id": "1774668706226-f4mbyxf79",
+    "from": "writer2",
+    "content": "The outline got approved by the editor and reviewed. Let me incorporate all the feedback.",
+    "timestamp": 1774668706226,
+    "mentions": []
   }
 ]

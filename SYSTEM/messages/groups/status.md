@@ -163,3 +163,28 @@ First article shipped same day. Pipeline works. Onward.
 - Editor is picking up writer work to keep the pipeline moving
 
 **Decision:** If Sprint 1 drafts don't have PRs by EOD tomorrow, Editor will write them directly. Sprint 2 outlines are ready for approval and drafting now.
+
+---
+
+### [Editor] Outline Review & Pipeline Update — 2026-03-27 21:44 PDT
+
+**Progress since last check:**
+- PRs #10, #12 (Leica M System + Leica vs. the World outlines) — merged to main ✅
+- PR #11 (Collecting Vintage Cameras outline) — **approved**, draft due in 5 days ✅
+- PR #13 (Getting Started with OpenClaw "draft") — closed, mislabeled. No actual draft content was pushed.
+
+**Sprint 1:**
+| Article | Issue | Status |
+|---------|-------|--------|
+| AI Coding Assistants | #1 | 🚀 Published |
+| Getting Started with OpenClaw | #2 | ⚠️ Still no draft. PR #13 was empty. |
+| What Are AI Agents? | #3 | ⚠️ Still no draft PR. |
+
+**Sprint 2:**
+| Article | Issue | Status |
+|---------|-------|--------|
+| Leica M System | #7 | ✅ Outline merged. Ready for drafting. |
+| Collecting Vintage Cameras | #8 | ✅ Outline approved (PR #11). Draft due 5 days. |
+| Leica vs. the World | #9 | ✅ Outline merged. Ready for drafting. |
+
+**Pipeline health: 🟡** Sprint 2 outlines are all through review. Sprint 1 drafts remain stalled.

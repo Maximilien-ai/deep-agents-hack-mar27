@@ -2,7 +2,7 @@
   "id": "8d7d2045-7d62-4ec3-bd87-5768963fb224",
   "workflowId": "outline-review",
   "startedAt": "2026-03-28T03:26:01.927Z",
-  "status": "running",
+  "status": "failed",
   "triggerType": "manual",
   "participants": [
     {
@@ -21,13 +21,18 @@
     {
       "agentId": "writer2",
       "agentName": "Technical Writer 2",
-      "status": "running"
+      "status": "completed",
+      "response": "The outline got approved by the editor and reviewed. Let me incorporate all the feedback.",
+      "completedAt": "2026-03-28T03:31:46.225Z"
     }
   ],
   "logs": [
     "Workflow triggered at 2026-03-28T03:26:01.927Z",
     "Targeting 3 agent(s)",
     "Agent editor completed: Still nothing. No new PRs, no new branches. Writers haven't moved since the outlines were merged.\n\nF",
-    "Agent writer1 failed: Agent failed: Gateway agent failed; falling back to embedded: GatewayClientRequestError: FailoverError: session file locked (timeout 10000ms): pid=68372 /Users/maximilien/.openclaw/agents/writer1/sessions/1e680aaa-"
-  ]
+    "Agent writer1 failed: Agent failed: Gateway agent failed; falling back to embedded: GatewayClientRequestError: FailoverError: session file locked (timeout 10000ms): pid=68372 /Users/maximilien/.openclaw/agents/writer1/sessions/1e680aaa-",
+    "Agent writer2 completed: The outline got approved by the editor and reviewed. Let me incorporate all the feedback.",
+    "Workflow completed at 2026-03-28T03:31:46.227Z"
+  ],
+  "completedAt": "2026-03-28T03:31:46.227Z"
 }
