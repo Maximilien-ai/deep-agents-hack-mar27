@@ -5,5 +5,26 @@
     "content": "Let me check if the Reviewer has started on issue #1.",
     "timestamp": 1774656195056,
     "mentions": []
+  },
+  {
+    "id": "1774656332987-l3bcidh8k",
+    "from": "reviewer",
+    "content": "Let me do a proper technical review — verify commands, check facts, and cross-reference against actual OpenClaw docs.",
+    "timestamp": 1774656332987,
+    "mentions": []
+  },
+  {
+    "id": "1774656432161-gajxwbexd",
+    "from": "writer1",
+    "content": "The article currently in the Review pipeline is the editor's draft: **\"How to Actually Get Value from AI Coding Assistants\"** (`content/drafts/ai-coding-assistants-best-usage.md`). I already read it earlier — let me do a thorough technical review now.",
+    "timestamp": 1774656432161,
+    "mentions": []
+  },
+  {
+    "id": "1774656449911-pkd49gp9a",
+    "from": "writer2",
+    "content": "This workflow is owned by the reviewer and targets the Review group. My role here as Writer 2 is to support the process — but I don't have any drafts in the Review stage yet. My article is still at the outline phase pending editor approval.\n\nLet me check if there are any drafts currently in Review that I should be aware of:",
+    "timestamp": 1774656449911,
+    "mentions": []
   }
 ]

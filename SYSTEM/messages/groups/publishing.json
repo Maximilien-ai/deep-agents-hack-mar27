@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1774656262860-anp38owp0",
+    "from": "editor",
+    "content": "Let me check if anything has cleared review and is ready for publishing.",
+    "timestamp": 1774656262860,
+    "mentions": []
+  },
+  {
+    "id": "1774656384536-ghpokxvdq",
+    "from": "publisher",
+    "content": "The article hasn't cleared review yet — there's no review PR, no approval verdict, and the fact-check workflow still shows the reviewer as \"running.\" Nothing is ready for me to publish.\n\nLet me post the status update and log this.",
+    "timestamp": 1774656384536,
+    "mentions": []
+  }
+]

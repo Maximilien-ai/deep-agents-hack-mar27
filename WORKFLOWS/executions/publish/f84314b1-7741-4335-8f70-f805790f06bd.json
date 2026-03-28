@@ -2,22 +2,30 @@
   "id": "f84314b1-7741-4335-8f70-f805790f06bd",
   "workflowId": "publish",
   "startedAt": "2026-03-28T00:03:42.892Z",
-  "status": "running",
+  "status": "completed",
   "triggerType": "manual",
   "participants": [
     {
       "agentId": "editor",
       "agentName": "Editor",
-      "status": "running"
+      "status": "completed",
+      "response": "Let me check if anything has cleared review and is ready for publishing.",
+      "completedAt": "2026-03-28T00:04:22.859Z"
     },
     {
       "agentId": "publisher",
       "agentName": "Publisher",
-      "status": "pending"
+      "status": "completed",
+      "response": "The article hasn't cleared review yet — there's no review PR, no approval verdict, and the fact-check workflow still shows the reviewer as \"running.\" Nothing is ready for me to publish.\n\nLet me post the status update and log this.",
+      "completedAt": "2026-03-28T00:06:24.536Z"
     }
   ],
   "logs": [
     "Workflow triggered at 2026-03-28T00:03:42.892Z",
-    "Targeting 2 agent(s)"
-  ]
+    "Targeting 2 agent(s)",
+    "Agent editor completed: Let me check if anything has cleared review and is ready for publishing.",
+    "Agent publisher completed: The article hasn't cleared review yet — there's no review PR, no approval verdict, and the fact-chec",
+    "Workflow completed at 2026-03-28T00:06:24.536Z"
+  ],
+  "completedAt": "2026-03-28T00:06:24.536Z"
 }

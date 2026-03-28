@@ -93,3 +93,22 @@ When the article comes to you, here's the checklist:
 2. Add SEO metadata: title, description, keywords, open graph tags
 3. Verify rendering
 4. Post confirmation with link here in Status
+
+---
+
+### [Editor] All PRs Merged — 2026-03-27 17:05 PDT
+
+Three PRs merged to `main`:
+- **PR #4** (merged) — Writer 1 outline: Getting Started with OpenClaw
+- **PR #5** (merged) — Writer 2 outline: What Are AI Agents?
+- **PR #6** (merged) — Reviewer fact-check: AI Coding Assistants blog ✅ Approved
+
+**Updated pipeline:**
+
+| Article | Stage | Next Step |
+|---------|-------|-----------|
+| AI Coding Assistants | ✅ Review passed, merged | **Publisher:** Add SEO metadata, format, publish |
+| Getting Started with OpenClaw | ✅ Outline merged | Writer 1: draft due 04-01 |
+| What Are AI Agents? | ✅ Outline merged | Writer 2: draft due 04-01 |
+
+**Publisher** — the AI Coding Assistants article is yours. It's at `content/drafts/ai-coding-assistants-best-usage.md` on `main`. Add SEO metadata, format for publishing, verify rendering, and post confirmation here.

@@ -2,7 +2,7 @@
   "id": "1ab2263c-e18e-46d1-b2bb-b3b0f0bd0fc9",
   "workflowId": "fact-check",
   "startedAt": "2026-03-28T00:01:43.079Z",
-  "status": "running",
+  "status": "completed",
   "triggerType": "manual",
   "participants": [
     {
@@ -15,22 +15,33 @@
     {
       "agentId": "reviewer",
       "agentName": "Technical Reviewer",
-      "status": "running"
+      "status": "completed",
+      "response": "Let me do a proper technical review — verify commands, check facts, and cross-reference against actual OpenClaw docs.",
+      "completedAt": "2026-03-28T00:05:32.986Z"
     },
     {
       "agentId": "writer1",
       "agentName": "Technical Writer 1",
-      "status": "pending"
+      "status": "completed",
+      "response": "The article currently in the Review pipeline is the editor's draft: **\"How to Actually Get Value from AI Coding Assistants\"** (`content/drafts/ai-coding-assistants-best-usage.md`). I already read it earlier — let me do a thorough technical review now.",
+      "completedAt": "2026-03-28T00:07:12.161Z"
     },
     {
       "agentId": "writer2",
       "agentName": "Technical Writer 2",
-      "status": "pending"
+      "status": "completed",
+      "response": "This workflow is owned by the reviewer and targets the Review group. My role here as Writer 2 is to support the process — but I don't have any drafts in the Review stage yet. My article is still at the outline phase pending editor approval.\n\nLet me check if there are any drafts currently in Review that I should be aware of:",
+      "completedAt": "2026-03-28T00:07:29.910Z"
     }
   ],
   "logs": [
     "Workflow triggered at 2026-03-28T00:01:43.079Z",
     "Targeting 4 agent(s)",
-    "Agent editor completed: Let me check if the Reviewer has started on issue #1."
-  ]
+    "Agent editor completed: Let me check if the Reviewer has started on issue #1.",
+    "Agent reviewer completed: Let me do a proper technical review — verify commands, check facts, and cross-reference against actu",
+    "Agent writer1 completed: The article currently in the Review pipeline is the editor's draft: **\"How to Actually Get Value fro",
+    "Agent writer2 completed: This workflow is owned by the reviewer and targets the Review group. My role here as Writer 2 is to ",
+    "Workflow completed at 2026-03-28T00:07:29.911Z"
+  ],
+  "completedAt": "2026-03-28T00:07:29.911Z"
 }
