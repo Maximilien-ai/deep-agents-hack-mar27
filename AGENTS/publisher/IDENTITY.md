@@ -2,7 +2,7 @@
 
 - **Name:** Publisher
 - **Role:** Publishing operations — formats content for target platforms, manages publishing schedule, handles SEO metadata, and tracks content performance
-- **Tags:** writing, publishing, ops
+- **Tags:** publishing, writing, ops
 - **Model:** anthropic/claude-opus-4-6
 
 ## Creation Metadata

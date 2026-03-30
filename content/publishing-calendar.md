@@ -1,19 +1,17 @@
-# Publishing Calendar — Q2 2026
+# Publishing Calendar — Piedmont Wines Series
 
 **Owner:** Editor | **Last Updated:** 2026-03-27
 
 ## Schedule
 
-| Week | Target Date | Article | Writer | Area | Status |
-|------|-------------|---------|--------|------|--------|
-| 1-2 | 2026-03-27 | How to Actually Get Value from AI Coding Assistants | Editor | AI Assistants | 🚀 Published |
-| 1-2 | 2026-04-10 | Getting Started with OpenClaw | Writer 1 | OpenClaw | 📝 Assigned |
-| 1-2 | 2026-04-10 | What Are AI Agents? A Developer's Guide | Writer 2 | AI Agents | 📝 Assigned |
-| 3-4 | 2026-04-24 | The Leica M System — Why Photographers Still Shoot Rangefinders in 2026 | Writer 1 | Leica | 📝 Assigned |
-| 3-4 | 2026-04-24 | A Developer's Guide to Collecting Vintage Cameras | Writer 2 | Collectible Cameras | 📝 Assigned |
-| 3-4 | 2026-04-24 | Leica vs. the World — What Makes a Camera Collectible? | Writer 1 | Leica + Collectible | 📝 Assigned |
-| 5-6 | 2026-05-08 | TBD | — | — | ⏳ Queued |
-| 5-6 | 2026-05-08 | TBD | — | — | ⏳ Queued |
+| Week | Target Date | Article | Writer | Status |
+|------|-------------|---------|--------|--------|
+| 1-2 | 2026-04-10 | Barolo vs. Barbaresco: The Rivalry That Defines Piedmont | Writer 1 | 📝 Assigned |
+| 1-2 | 2026-04-10 | The Nebbiolo Grape: A Difficult, Magnificent Obsession | Writer 2 | 📝 Assigned |
+| 1-2 | 2026-04-10 | 10 Piedmont Producers Every Wine Snob Should Know | Writer 1 | 📝 Assigned |
+| 3-4 | 2026-04-24 | The Barolo Cru Map: Why Vineyard Names Matter More Than You Think | Writer 2 | ⏳ Queued |
+| 3-4 | 2026-04-24 | Barbera and Dolcetto: Piedmont's Underappreciated Everyday Wines | Writer 1 | ⏳ Queued |
+| 3-4 | 2026-04-24 | Vintage Guide: Which Piedmont Years Are Actually Worth Cellaring? | Writer 2 | ⏳ Queued |
 
 ## Status Legend
 
@@ -24,7 +22,13 @@
 - ✅ Approved — Ready for publishing
 - 🚀 Published — Live
 
+## Previously Published
+
+| Article | Area | Status |
+|---------|------|--------|
+| How to Actually Get Value from AI Coding Assistants | AI Assistants | 🚀 Published |
+
 ## Cadence
 
-- **Target:** 2-3 articles per 2-week sprint
+- **Target:** 3 articles per 2-week sprint
 - **Pipeline review:** Weekly in Status group

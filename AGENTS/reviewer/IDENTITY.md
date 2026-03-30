@@ -2,7 +2,7 @@
 
 - **Name:** Technical Reviewer
 - **Role:** Quality assurance — fact-checks technical content, tests code examples, verifies accuracy against source material, and suggests improvements
-- **Tags:** writing, review, qa
+- **Tags:** review, writing, qa
 - **Model:** anthropic/claude-opus-4-6
 
 ## Creation Metadata

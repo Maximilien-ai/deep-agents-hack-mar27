@@ -1,64 +1,65 @@
 # Writing Style Guide
 
-**Owner:** Editor | **Version:** 2.0 | **Last Updated:** 2026-03-27
+**Owner:** Editor | **Version:** 3.0 | **Last Updated:** 2026-03-27
 
 ## Audience
 
-Developers — from junior to senior. Assume they can read code and understand basic architecture, but don't assume familiarity with our specific tools or the AI agent ecosystem.
+Wine snobs. These readers know their Sangiovese from their Syrah. They've been to tastings, they have opinions about vintages, and they can smell marketing from across the room. Don't patronize them — but don't gatekeep either. Write for the enthusiast who wants depth, not the sommelier trying to impress other sommeliers.
 
 ## Voice & Tone
 
-- **College-level but accessible.** Smart without being academic. Explain concepts clearly, but don't talk down.
-- **Clear over clever.** If a simpler word works, use it.
-- **Active voice** by default. Passive only when the actor is irrelevant.
-- **Second person** ("you") for tutorials and guides. Third person for reference docs.
-- **Present tense** for describing current behavior. Past tense for changelogs.
-- **Opinionated but fair.** Have a point of view, but acknowledge trade-offs.
+- **College-level.** Educated, literate, not academic. Assume intelligence, don't assume a wine degree.
+- **Confident and opinionated.** Have a point of view. "This is a great Barolo" is better than "many consider this a well-regarded wine."
+- **Sensory and precise.** Wine writing lives or dies on specificity. "Notes of tar, dried rose, and leather" beats "complex and interesting."
+- **Active voice** by default. Passive for emphasis or when the actor is irrelevant.
+- **Present tense** for describing wines and regions. Past tense for historical context.
+- **No purple prose.** Evocative, yes. Overwrought, no. Piedmont deserves better than "a symphony of flavors dancing on the palate."
 
 ## Structure
 
-- **Title:** Concise, action-oriented. "How to Build Your First AI Agent" not "A Comprehensive Guide to AI Agent Development Methodologies"
-- **Introduction:** 2-3 sentences max. State what the reader will learn and why it matters.
-- **Headers:** Use H2 for major sections, H3 for subsections. Never skip levels.
-- **Paragraphs:** 3-5 sentences. If longer, break it up.
-- **Code blocks:** Always specify the language. Include comments for non-obvious lines.
+- **Title:** Evocative but searchable. "The Nebbiolo Enigma: Why Barolo Ages Like Nothing Else" not "An Exploration of Aging Potential in Piedmontese Nebbiolo-Based Wines"
+- **Introduction:** 2-3 sentences. Set the scene. Make the reader want to open a bottle.
+- **Headers:** H2 for major sections, H3 for subsections. Never skip levels.
+- **Paragraphs:** 3-5 sentences. Let the writing breathe.
+- **Output format:** Markdown.
 
 ## Formatting
 
-- **Bold** for UI elements, key terms on first use, and warnings
-- `Code` for commands, file paths, variable names, function names
-- *Italic* for emphasis (sparingly)
-- Numbered lists for sequential steps, bullet lists for non-ordered items
-- Output format: **Markdown**
+- **Bold** for producer names on first mention, key terms, and regional designations
+- *Italic* for Italian terms on first use, wine names, and grape varieties when used generically
+- Use `code` style sparingly — only for technical wine data (pH, TA, alcohol %)
+- Numbered lists for rankings or sequential processes (winemaking steps, tasting order)
+- Bullet lists for non-ordered items (producer lists, grape characteristics)
 
-## Technical Standards
+## Wine-Specific Standards
 
-- All code examples must be tested and runnable
-- Include expected output where it helps understanding
-- Specify versions for tools, libraries, and APIs
-- Link to official documentation for external tools on first mention
-- Define acronyms on first use (e.g., "Large Language Model (LLM)")
+- Spell out grape varieties in full on first use, then abbreviate naturally (Nebbiolo → "the grape")
+- Use Italian designations correctly: Barolo DOCG, Barbaresco DOCG, Barbera d'Asti DOCG, etc.
+- Vintage years in four digits: 2019, not '19
+- Producer names in their original Italian form: **Giacomo Conterno**, not Giacomo Conterno Winery
+- Vineyard names (*cru*) in italic: *Cannubi*, *Monfortino*, *Rabajà*
+- Temperature in both Celsius and Fahrenheit on first mention
+- Price ranges in USD with approximate conversion context
 
 ## Terminology
 
 | Use | Don't Use |
 |-----|-----------|
-| AI agent | AI bot / AI robot |
-| LLM | large language model (after first use) |
-| run | execute |
-| set up (verb) | setup (as verb) |
-| command line | command-line (unless adjective) |
-| open source | open-source (unless adjective) |
-| API | api |
-| OpenClaw | openclaw / Open Claw |
+| Nebbiolo | "the king of grapes" (unless quoting) |
+| DOCG | D.O.C.G. |
+| *cru* | cru (not italicized) |
+| tannin | tannic structure (unless being specific) |
+| producer | winemaker (unless referring to the person) |
+| Langhe | Langhetti or Langa (unless historically appropriate) |
+| Piedmont | Piemonte (use English form in body, Italian in wine names) |
 
 ## Content Quality Checklist
 
-- [ ] Title is clear and searchable
-- [ ] Introduction states the value proposition
-- [ ] Written at college-level — accessible but not dumbed down
-- [ ] All code examples tested
+- [ ] Title is evocative and searchable
+- [ ] Introduction makes you want to open a bottle
+- [ ] Wine facts are verifiable (vintages, DOCG rules, producer details)
+- [ ] Tasting notes are specific, not generic
+- [ ] Italian terms used correctly and consistently
 - [ ] No broken links
-- [ ] Consistent terminology throughout
 - [ ] Reviewed for accuracy by technical reviewer
 - [ ] SEO metadata defined (title, description, keywords)

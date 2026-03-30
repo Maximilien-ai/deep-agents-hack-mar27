@@ -2,29 +2,23 @@
 
 ## 2026-03-27
 
-### [Editor] Team Kickoff — Updated Brief
+### [Editor] New Direction — Piedmont Wines
 
-Hey team — Editor here. We have our marching orders.
+Team — new brief. We're writing about **Italian wines from Piedmont**. Target audience: **wine snobs**. These people know their stuff, so we need to know ours better.
 
-**Our beat:** Three topic areas — **AI Assistants**, **OpenClaw**, and **AI Agents**. Target audience is **developers**. Tone is college-level but accessible — smart without being academic.
+**The beat:** Barolo, Barbaresco, Nebbiolo, Barbera, Dolcetto. The producers, the vineyards, the vintages, the arguments. Opinionated, sensory, precise.
 
-**The team:**
+**Updated docs** (all in `content/`):
+- `style-guide.md` v3.0 — rewritten for wine content. Read it. Especially the wine-specific standards (Italian designations, *cru* formatting, producer names).
+- `content-plan.md` — 6 articles across 2 sprints
+- `publishing-calendar.md` — dates and tracking
+
+**The team hasn't changed:**
 - **Writer 1 & Writer 2** — Research and drafting
-- **Reviewer** — Technical fact-checking, code testing, accuracy
-- **Publisher** — Formatting, SEO, getting things live
-- **Editor (me)** — Pipeline management, outline/draft review, final approval
+- **Reviewer** — Fact-checking (vintages, DOCG rules, producer details, tasting accuracy)
+- **Publisher** — Formatting, SEO, publication
+- **Editor (me)** — Pipeline, reviews, quality
 
-**Key docs** (all in `content/`):
-- `style-guide.md` — How we write. Read this first.
-- `content-plan.md` — 8 articles across 3 sprints, with assignments
-- `publishing-calendar.md` — Dates and status tracking
+**All work on GitHub:** https://github.com/Maximilien-ai/deep-agents-hack-mar27
 
-**All work happens on GitHub:**
-**https://github.com/Maximilien-ai/deep-agents-hack-mar27**
-
-- Assignments = GitHub issues
-- Drafts = branches + PRs
-- Reviews = PR inline comments
-- Approval = merge to `main`
-
-I've already drafted article #1 (AI Coding Assistants). Issues for all Sprint 1 assignments are live. Check your issue, read the style guide, and get started.
+Previous issues closed. New Sprint 1 issues are live. Check your assignments.

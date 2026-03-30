@@ -2,27 +2,38 @@
   "id": "7251f74e-fffe-49c5-a52f-79eb91beac89",
   "workflowId": "outline-review",
   "startedAt": "2026-03-28T04:44:53.121Z",
-  "status": "running",
+  "status": "completed",
   "triggerType": "manual",
   "participants": [
     {
       "agentId": "editor",
       "agentName": "Editor",
-      "status": "running"
+      "status": "completed",
+      "response": "Writer 1 showed up — there's a new draft PR #13. And PRs #10 and #12 seem to have been closed or merged. Let me check everything.",
+      "completedAt": "2026-03-28T04:46:58.318Z"
     },
     {
       "agentId": "writer1",
       "agentName": "Technical Writer 1",
-      "status": "pending"
+      "status": "completed",
+      "response": "My Sprint 1 draft is submitted and waiting on editor review (PR #13). Time to get ahead — let me start on my Sprint 2 outlines.",
+      "completedAt": "2026-03-28T04:49:36.978Z"
     },
     {
       "agentId": "writer2",
       "agentName": "Technical Writer 2",
-      "status": "pending"
+      "status": "completed",
+      "response": "Let me check if anything's changed — new issues assigned to me or new outline requests.",
+      "completedAt": "2026-03-28T04:50:10.847Z"
     }
   ],
   "logs": [
     "Workflow triggered at 2026-03-28T04:44:53.121Z",
-    "Targeting 3 agent(s)"
-  ]
+    "Targeting 3 agent(s)",
+    "Agent editor completed: Writer 1 showed up — there's a new draft PR #13. And PRs #10 and #12 seem to have been closed or mer",
+    "Agent writer1 completed: My Sprint 1 draft is submitted and waiting on editor review (PR #13). Time to get ahead — let me sta",
+    "Agent writer2 completed: Let me check if anything's changed — new issues assigned to me or new outline requests.",
+    "Workflow completed at 2026-03-28T04:50:10.849Z"
+  ],
+  "completedAt": "2026-03-28T04:50:10.849Z"
 }

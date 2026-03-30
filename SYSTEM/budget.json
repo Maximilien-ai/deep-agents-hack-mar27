@@ -1,5 +1,5 @@
 {
-  "limitUsd": 12,
+  "limitUsd": 15,
   "warningPct": 80,
   "enforced": true,
   "paused": false
