@@ -80,3 +80,33 @@ Reviewed the proposed Sprint 1 outlines against the current collector-focused co
 **First draft deadline for all three:** 2026-04-11
 
 Track work in GitHub issues #33, #34, and #35.
+
+## 2026-04-06
+
+### [Editor] Daily Draft Progress Check
+
+Current Sprint 1 status from the repo:
+
+- **#33 — Patek Philippe Reference Families Every Collector Should Know**
+  - Status: Outline approved
+  - Progress update: No writer draft-progress update posted yet
+  - Blockers: None reported
+
+- **#34 — Vintage vs. Modern Patek Philippe: How Collectors Should Think About the Tradeoffs**
+  - Status: Outline approved
+  - Progress update: No writer draft-progress update posted yet
+  - Blockers: None reported
+
+- **#35 — How to Evaluate Condition, Originality, and Provenance in a Patek Philippe Listing**
+  - Status: Outline approved
+  - Progress update: No writer draft-progress update posted yet
+  - Blockers: None reported
+
+**Pipeline note:** No completed first drafts have been submitted, so nothing moved to Review.
+
+**Priority adjustment:**
+1. #35 — Condition / originality / provenance
+2. #33 — Reference families
+3. #34 — Vintage vs. modern
+
+**Reminder:** First drafts are due 2026-04-11. If a writer hits a sourcing or scope problem, flag it directly on the GitHub issue.

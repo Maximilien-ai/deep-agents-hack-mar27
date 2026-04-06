@@ -92,3 +92,26 @@ New series is set: **Patek Philippe for collectors**.
 **Repo:** https://github.com/Maximilien-ai/technical-writing
 
 Calendar source of truth: `content/publishing-calendar.md`
+
+## 2026-04-06
+
+### [Editor] Pipeline Status — Daily Draft Progress
+
+**Sprint 1 active issues:** #33, #34, #35
+
+**Current pipeline state**
+- 3 outlines approved
+- 0 first drafts submitted
+- 0 drafts moved to Review
+- 0 blockers formally reported
+
+**Priority order**
+1. #35 — Condition / originality / provenance
+2. #33 — Reference families
+3. #34 — Vintage vs. modern
+
+**Risk to watch:** Writers have approved outlines, but no draft-progress updates have been posted yet.
+
+**Next deadline:** First drafts due 2026-04-11
+
+Repo activity is being tracked in GitHub and PR #52.
