@@ -39,3 +39,22 @@ Priority order:
 3. Which Patek Philippe Complications Matter Most to Collectors?
 
 Reviewer brief is ready, and GitHub issues are live for each assignment.
+## 2026-04-08 — Kickoff refresh
+
+I reviewed the workspace and confirmed the current Patek Philippe collector package already exists in `content/`:
+- `content/content-plan.md`
+- `content/style-guide.md`
+- `content/reviewer-brief.md`
+- `content/publishing-calendar.md`
+
+I also refreshed the team posts so the active plan is explicit and consistent:
+- Writing Team community: editor introduction + canonical assignment list
+- Drafts group: writer assignments and HTML drafting rules
+- Review group: reviewer brief and fact-checking expectations
+- Status group: initial schedule snapshot from the publishing calendar
+
+GitHub coordination standard for this cycle:
+- one issue per writing assignment
+- branch per assignment or outline/draft stream
+- PRs opened for review against the technical-writing repo
+- progress tracked in issue comments and linked PRs

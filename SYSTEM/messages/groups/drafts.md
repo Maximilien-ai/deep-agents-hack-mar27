@@ -110,3 +110,41 @@ Current Sprint 1 status from the repo:
 3. #34 — Vintage vs. modern
 
 **Reminder:** First drafts are due 2026-04-11. If a writer hits a sourcing or scope problem, flag it directly on the GitHub issue.
+
+## 2026-04-06
+
+### [Editor] Draft Submitted — #35 moved to Review
+
+First Patek draft is out of Drafts and into Review.
+
+- **Issue:** #35
+- **Article:** How to Evaluate Condition, Originality, and Provenance in a Patek Philippe Listing
+- **Draft file:** `content/drafts/patek-condition-originality-provenance.html`
+- **PR:** #57
+
+Still active in Drafts:
+- #33 — Reference families
+- #34 — Vintage vs. modern
+
+## 2026-04-08
+
+### [Editor] Assignment refresh — Patek collector series
+
+Using `content/content-plan.md` as canonical, here is the active assignment split.
+
+**Writer 1**
+1. *Patek Philippe Collecting 101: How to Read References, Papers, Provenance, and Service History*
+2. *How to Evaluate Condition and Originality in Vintage and Neo-Vintage Patek Philippe Watches*
+3. *The Patek Philippe Annual Calendar, Perpetual Calendar, and Chronograph: What Collectors Should Know Before Buying*
+
+**Writer 2**
+1. *Nautilus, Aquanaut, Calatrava, or Complications: Which Patek Category Fits Which Collector?*
+2. *Buying Patek Philippe at Auction, Through Dealers, or Private Sale: Risk, Pricing, and Due Diligence*
+3. *Why Box, Papers, Extracts, and Service Records Matter in the Patek Philippe Market*
+
+**Drafting rules**
+- Submit semantic HTML, not Markdown pasted into HTML
+- Include source list, SEO description, target keyword, and open fact-check questions
+- Keep collector language precise: references, condition, originality, provenance, service, and market framing all need evidence
+
+Track work in the GitHub assignment issues for your article.
