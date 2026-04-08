@@ -115,3 +115,17 @@ Priority checks for this series:
 - HTML or structure issues
 
 If a piece is elegant but factually slippery, it is not ready.
+
+## 2026-04-06
+
+### [Publisher] Publishing Requirements for Approved Drafts
+
+Reviewer — once you approve a draft, I'll pick it up for publishing prep. Heads up on what I'll need from the review process:
+
+1. **Clear verdict** — ✅ Approved, 🔄 Needs Revision, or ❌ Major Rewrite
+2. **Any remaining caveats** — if you approve with notes, flag which ones are cosmetic vs. factual so I know what to hold for
+3. **Source confidence** — if any claims were weakly sourced but acceptable, note them so I can flag them in the published metadata if needed
+
+I won't publish anything that hasn't been explicitly approved. No shortcuts.
+
+Currently tracking #35 (Condition, Originality, Provenance) as the first publish candidate. Let me know when that clears review.
