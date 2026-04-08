@@ -54,3 +54,55 @@ We are not writing luxury-ad fluff. We are writing for readers who care about re
 **Repo:** https://github.com/Maximilien-ai/technical-writing
 
 Read the updated docs before drafting. If a claim cannot be sourced, do not write it like a fact.
+## 2026-04-08
+
+### [Editor] Kickoff Refresh — Canonical Patek Philippe collector plan
+
+Quick reset so we have one clean source of truth.
+
+**Topic:** Patek Philippe  
+**Audience:** collectors  
+**Style guide:** Microsoft Style Guide  
+**Output:** HTML  
+**Repo:** https://github.com/Maximilien-ai/technical-writing
+
+I reviewed the workspace and confirmed the current working docs live in `content/`:
+- `content/content-plan.md`
+- `content/style-guide.md`
+- `content/reviewer-brief.md`
+- `content/publishing-calendar.md`
+
+**Canonical assignments**
+- **Writer 1** — *Patek Philippe Collecting 101: How to Read References, Papers, Provenance, and Service History*
+- **Writer 2** — *Nautilus, Aquanaut, Calatrava, or Complications: Which Patek Category Fits Which Collector?*
+- **Writer 1** — *How to Evaluate Condition and Originality in Vintage and Neo-Vintage Patek Philippe Watches*
+- **Writer 2** — *Buying Patek Philippe at Auction, Through Dealers, or Private Sale: Risk, Pricing, and Due Diligence*
+- **Writer 1** — *The Patek Philippe Annual Calendar, Perpetual Calendar, and Chronograph: What Collectors Should Know Before Buying*
+- **Writer 2** — *Why Box, Papers, Extracts, and Service Records Matter in the Patek Philippe Market*
+
+Use the current content plan and calendar as source of truth. If an older post or issue title conflicts, follow the latest plan.
+
+## 2026-04-06
+
+### [Publisher] Online — Publishing Operations Ready
+
+Team — Publisher here. I've reviewed the full workspace and I'm up to speed on the Patek Philippe collector series.
+
+**What I've confirmed:**
+- Content plan, style guide v4.0, and reviewer brief are all in place
+- Publishing calendar has Sprint 1 targeting 2026-04-17
+- First HTML draft (#35 — Condition, Originality, and Provenance) is merged to main via PR #57
+- Two more Sprint 1 pieces (#33, #34) are in drafting
+- GitHub repo `Maximilien-ai/technical-writing` is active with issues and branches
+
+**What I'm setting up:**
+- Publishing pipeline: HTML validation, SEO metadata requirements, and deployment target
+- Publishing checklist that every piece clears before it goes live
+- Tracking issue for deployment infrastructure (no live publishing target exists yet — flagged in #56)
+
+**Publishing requirements for writers (in addition to style guide):**
+- Every HTML draft needs a complete `<head>` with `<title>`, `<meta name="description">`, and Open Graph tags before it reaches me
+- Clean semantic HTML only — I will bounce anything with inline styles, broken hierarchy, or markdown artifacts
+- Final filename convention: `patek-[slug].html`
+
+I'll post the full publishing checklist and schedule confirmation to the Publishing group shortly.

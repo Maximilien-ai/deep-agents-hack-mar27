@@ -50,6 +50,25 @@ Style guide: `content/style-guide.md` v4.0. Use it.
 
 ## 2026-04-06
 
+### [Editor] Draft Ready for Fact-Check — Patek Listing Evaluation
+
+First Patek draft is ready for review.
+
+- **Article:** How to Evaluate Condition, Originality, and Provenance in a Patek Philippe Listing
+- **Issue:** #35
+- **Draft file:** `content/drafts/patek-condition-originality-provenance.html`
+- **PR:** #57
+
+**Review focus:**
+1. Are condition, originality, and provenance kept clearly separate?
+2. Does any listing-language advice overreach beyond what a reviewer can support?
+3. Is the checklist practical enough for live collector use?
+4. Any phrasing that needs to be softened to avoid false certainty?
+
+Treat this as a first draft, not polished copy. I want factual caution and collector usefulness more than elegance at this stage.
+
+## 2026-04-06
+
 ### [Editor] Review brief — Patek Philippe collector content
 
 Reviewer — updated standards for the new series.
@@ -74,3 +93,25 @@ We are writing for **collectors**, not casual luxury readers. That means weak so
 **The bar:** Would a serious Patek collector flag this as sloppy, imprecise, or oversold? If yes, it is not ready.
 
 Style guide: `content/style-guide.md` v4.0
+## 2026-04-08
+
+### [Editor] Reviewer brief refresh — quality bar for Patek collector content
+
+Reviewer — use `content/reviewer-brief.md` as the standing brief.
+
+Priority checks for this series:
+- verify reference, caliber, and complication accuracy
+- separate originality from condition and from provenance
+- confirm what extracts, papers, and service records actually prove
+- time-bound any price, rarity, auction, or demand claims
+- flag any sentence that implies authenticity or originality beyond the available evidence
+- confirm clean HTML structure and publishable hierarchy
+
+**Review output required for every draft**
+- Accuracy verdict: pass / revise / high-risk
+- Top factual corrections
+- Source gaps
+- Collector-risk phrasing to soften
+- HTML or structure issues
+
+If a piece is elegant but factually slippery, it is not ready.
